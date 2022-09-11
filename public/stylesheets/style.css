@@ -1,0 +1,47 @@
+body {
+  padding: 1em;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+nav {
+	margin-bottom:1em;
+}
+
+nav a {
+	color:white;
+}
+
+.Update {
+	color: green;
+}
+
+.Delete {
+	color: red;
+}
+
+p {
+	padding-bottom:1em;
+}
+
+table {
+	width: 10em;
+}
+
+#map {
+	margin-top:2em;
+	margin-bottom:2em;
+	height:50%;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 10em;
+}
+
+#logout {
+	text-align: right;
+	color: white;
+}
