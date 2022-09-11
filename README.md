@@ -1,5 +1,5 @@
 # Mailer-CRUD
-A full-stack CRUD built to simulate a mailing list, built in with an admin panel, built in NodeJS Express, Leafletjs, Mapbox Pug,  Bootstrap 5, and MongoDB. 
+A full-stack CRUD built to simulate a mailing list, built in with an admin panel, built in NodeJS Express, Leafletjs, Mapbox, Pug,  Bootstrap 5, and MongoDB. 
 
 ## Features
 
